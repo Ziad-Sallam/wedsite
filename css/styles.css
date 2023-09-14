@@ -1,0 +1,103 @@
+.info{
+    background-color: #E4F9F5;
+
+    padding-top: 170px
+
+     }
+body{
+    margin: 0px;
+    text-align: center;
+    position: relative;
+    color: #40514E;
+    }
+h1{
+    font-size: 5.625rem;
+    font-family: 'Sacramento', cursive;
+    margin: 0px auto 0px auto;
+    color: #66BFBF;
+    }
+.t-cloud{
+    margin: 30px;
+    position: absolute;
+    right: 300px;
+    top: 100px
+    }
+.mountain{
+    background-color: #E4F9F5;
+    width: 750px;
+    height: auto;
+    }
+.b-cloud{
+    position: absolute;
+    left: 300px;
+    top: 300px;
+    }
+h2{
+    font-family: 'Merriweather', serif;
+    font-size: 2rem;
+    color: #66BFBF;
+    font-weight: normal;
+    padding: 10px;
+    }
+h3{
+    font-family: 'Merriweather', serif;
+    color: #11999E;
+    }
+
+.profile-pic{
+    height: 100px;
+    width: auto;
+    padding: 100px;
+    }
+.skill-img{
+           width:150px;
+           border-radius: 150px;
+           float: left;
+           padding-right: 30px;
+            }
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align:left;
+    line-height:2;
+    display: inline-block;
+}
+.middle-container{
+    padding: 100px 0;
+    }
+.intro{
+    width: 30%;
+    margin: auto;
+    margin-bottom: 30px;
+    }
+
+hr{
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+}
+.contact-me-message{
+    width: 30%;
+    margin: 40px auto 60px;
+    }
+.bottom-container{
+background-color: #66BFBF;
+padding: 3em;
+
+    }
+a{
+    color: #11999E;
+    font-family: 'Merriweather', serif;
+    margin: 10px 20px;
+    text-decoration: none;
+
+    }
+a:hover{
+    color: #EAF6F6;
+
+    }
+.copy-right{
+    color: #EAF6F6;
+    font-size:0.75rem;
+    margin: 20px 0;
+    }
